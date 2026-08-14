@@ -1,0 +1,10 @@
+{
+"name": "project-node",
+"version": "1.0.0",
+"description": "projeto node js",
+"main": "index.mjs",
+"scripts":{
+"start": "node index.mjs"
+},
+"license":"MIT"
+}
